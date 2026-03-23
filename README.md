@@ -6,11 +6,11 @@ My first api in Python - FastAPI
 Simple backend API built with FastAPI and SQLite.
 
 ## Features
-Create tasks
-Get all tasks
-Get task by ID
-Update task
-Delete task
+Create tasks\
+Get all tasks\
+Get task by ID\
+Update task\
+Delete task\
 Mark task as completed
 
 ## Tech Stack
