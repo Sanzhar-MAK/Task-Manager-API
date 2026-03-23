@@ -1,8 +1,4 @@
-# Task-Manager-API
-My first api in Python - FastAPI
-
 # Task Manager API
-
 Simple backend API built with FastAPI and SQLite.
 
 ## Features
@@ -14,16 +10,16 @@ Delete task\
 Mark task as completed
 
 ## Tech Stack
-FastAPI
-SQLite
+FastAPI\
+SQLite\
 Pydantic
 
 ## Endpoints
-GET /tasks
-GET /tasks/{id}
-POST /tasks
-PUT /tasks/{id}
-DELETE /tasks/{id}
+GET /tasks\
+GET /tasks/{id}\
+POST /tasks\
+PUT /tasks/{id}\
+DELETE /tasks/{id}\
 PATCH /tasks/{id}/complete
 
 ## Run project
